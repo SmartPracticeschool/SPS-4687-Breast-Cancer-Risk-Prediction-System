@@ -1,6 +1,10 @@
 # SPS-4687-Breast-Cancer-Risk-Prediction-System
 Breast Cancer Risk Prediction System 
 
+Implementation : Using AutoAI
+
+Model chosen : LightGBM
+
 This project has been carried out to predict the risk of Breast Cancer .
 The following documents are added for reference :
 1) Jupyter Notebook for Model
